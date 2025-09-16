@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="API Test Suite" verbose="1" parallel="false">
+    <test name="Sport Activity Tests">
+        <classes>
+            <class name="tests.auth.LoginTest"/>
+<!--            <class name="tests.sportActivity.CreateSportActivityTest"/>-->
+<!--            <class name="tests.sportActivity.GetSportActivityByIdTest"/>-->
+<!--            <class name="tests.sportActivity.UpdateSportActivityTest"/>-->
+<!--            <class name="tests.sportActivity.DeleteSportActivityByIdTest"/>-->
+        </classes>
+    </test>
+    <test name="Category Sport Tests">
+        <classes>
+            <class name="tests.categorySport.CreateCategory"/>
+            <class name="tests.categorySport.GetCategory"/>
+            <class name="tests.categorySport.UpdateCategory"/>
+            <class name="tests.categorySport.DeleteCategory"/>
+        </classes>
+    </test>
+</suite>
