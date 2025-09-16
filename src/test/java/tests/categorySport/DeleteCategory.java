@@ -32,7 +32,7 @@ public class DeleteCategory {
     }
 
     @Test
-    public void DeleteSportActivityById() throws IOException {
+    public void DeleteCategoryById() throws IOException {
         // Baca file JSON
         FileReader reader = new FileReader("src/resources/json/category_id.json");
         JSONObject json = new JSONObject(new JSONTokener(reader));

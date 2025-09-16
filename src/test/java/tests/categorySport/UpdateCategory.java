@@ -18,7 +18,7 @@ import static io.restassured.RestAssured.given;
 
 public class UpdateCategory {
     @Test
-    public void updateSportActivityFromJson() throws Exception {
+    public void updateCategoryFromJson() throws Exception {
         // Set Base URI dari ConfigReader
         RestAssured.baseURI = ConfigReader.getProperty("baseUrl");
 

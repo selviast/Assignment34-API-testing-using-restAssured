@@ -32,7 +32,7 @@ public class GetCategory {
     }
 
     @Test
-    public void GetSportActivityById() throws IOException {
+    public void GetCategory() throws IOException {
         // Baca file JSON
         FileReader reader = new FileReader("src/resources/json/category_id.json");
         JSONObject json = new JSONObject(new JSONTokener(reader));
@@ -41,7 +41,7 @@ public class GetCategory {
         // Ambil activity_id dari JSON
         int categoryId = json.getInt("category_id");
 
-        System.out.println("Activity ID: " + categoryId);
+        System.out.println("Category ID: " + categoryId);
 
         Response response = given()
                 .header("Authorization", "Bearer " + token)
