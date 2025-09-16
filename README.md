@@ -1,8 +1,7 @@
 # Assignment 34 
 * API Testing using Rest Assured
 * API test documentation --> (Sport Reservation) https://documenter.getpostman.com/view/11853995/2sB34fmLXS
-* Account admin for testing --> email: syukran@gmail.com || password: syukran123
-* Link Test Plan --> https://docs.google.com/document/d/10z-pmIYRC-x9d_oBcuPglpqyn-FwQcYjGpiNsf2uFCU/edit?tab=t.0
+* Link Test Scenario --> https://docs.google.com/document/d/10z-pmIYRC-x9d_oBcuPglpqyn-FwQcYjGpiNsf2uFCU/edit?tab=t.0
 
 ## Detail Assignment
 ### Test Planning:
