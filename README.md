@@ -14,7 +14,15 @@
 ### Validasi:
 * Validasi status code dan struktur response body
 
+#### Run Test
+Run Test
 
+./gradlew clean test (macOS/linux)
+
+gradlew clean test (win)
+![Screenshot 2025-09-16 at 10.42.34.png](..%2F..%2FScreenshot%202025-09-16%20at%2010.42.34.png)
+
+![Screenshot 2025-09-16 at 10.41.16.png](..%2F..%2FScreenshot%202025-09-16%20at%2010.41.16.png)
 
 
 
