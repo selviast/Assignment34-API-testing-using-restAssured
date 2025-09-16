@@ -20,7 +20,7 @@ Run Test
 ./gradlew clean test (macOS/linux)
 
 gradlew clean test (win)
-<img width="1405" height="792" alt="Screenshot 2025-09-16 at 10 42 34" src="https://github.com/user-attachments/assets/12402019-6619-4c96-aa51-418555e6d74b" />
+<img width="1440" height="900" alt="Screenshot 2025-09-16 at 10 51 18" src="https://github.com/user-attachments/assets/79f5b30d-9694-4152-96c2-99fceb01ce1d" />
 
 <img width="1378" height="632" alt="Screenshot 2025-09-16 at 10 41 16" src="https://github.com/user-attachments/assets/217a5ae3-99f5-44d4-8ae7-8d6db5f07c23" />
 
